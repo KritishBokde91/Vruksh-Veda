@@ -1,0 +1,21 @@
+// next.config.ts
+import type { NextConfig } from "next";
+
+const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL;
+
+const nextConfig: NextConfig = {
+  reactStrictMode: true,
+  images: {
+    remotePatterns: supabaseUrl
+      ? [
+          {
+            protocol: "https",
+            hostname: new URL(supabaseUrl).hostname,
+            pathname: "/storage/v1/object/public/plant-images/**",
+          },
+        ]
+      : [],
+  },
+};
+
+export default nextConfig;

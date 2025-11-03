@@ -1,0 +1,943 @@
+{
+  "plants": [
+    {
+      "name": "Khandu chakka",
+      "botanical_name": "Ethretia Laevis Roxb",
+      "family": "Boraginaceae Synonymss- khandu chakka, Ajan vruksha, Ethretia affinis wild, ethertica indica, wild jack , jungle jack, monkey jack,etc.",
+      "synonyms": [],
+      "english_name": null,
+      "useful_parts": [
+        "leaves",
+        "bark and roots"
+      ],
+      "indications": [
+        "  Antibacterial and antifungal – Traditionally used to treat skin infections and wounds.",
+        "  Anti-inflammatory – Used in Ayurvedic medicine to reduce swelling and pain.",
+        "  Digestive aid – Some parts (like bark extracts) are believed to help in digestive issues.",
+        "  Liver protection – Traditional use includes formulations believed to support liver health."
+      ],
+      "shloka": "अजनवृक्षस्य छायायां विश्रान्तिः सुखदा नृणाम्।\nस्थैर्यं दीर्घायुषश्चैव वन्द्यः स वृक्षराजवत्॥",
+      "source_document": "35. khandu chakka.docx",
+      "images": [
+        "35__khandu_chakka_1.jpg",
+        "35__khandu_chakka_2.jpg",
+        "35__khandu_chakka_3.jpg"
+      ]
+    },
+    {
+      "name": "SHYONAK",
+      "botanical_name": "Oroxylum indicum ( L. ) Kurz.",
+      "family": "Bignoneaceae",
+      "synonyms": [
+        "Sonapatha",
+        "Sona",
+        "Shona",
+        "Addi",
+        "Pampini"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves",
+        "Root",
+        "Seeds",
+        "Bark",
+        "Fruit"
+      ],
+      "indications": [
+        "Inflammatory conditions, Arthritis, Cough, Skin disorders, Fever"
+      ],
+      "shloka": "श्योनाकः शोषणश्च स्यान्नटकट्वङ्गटुण्टुकाः । मण्डूकपर्णपत्रोर्णशुकनासकुटन्नटाः ॥\nदीर्घवृन्तोऽरलुश्चापि पृथुशिम्बः कटम्भरः ।\nश्योनाको दीपनः पाके कटुकस्तुवरो हिमः ।\nग्राही तिक्तोऽनिलश्लेष्मपित्तकासप्रणाशनः ॥ (भा.प्र​.)\nShonyak Tree\nShonyak Leaves\nShonyak Flower\nShonyak Fruits\nShonyak Seeds\nShonyak Roots",
+      "source_document": "67. Shonyak.docx",
+      "images": [
+        "67__Shonyak_1.jpg",
+        "67__Shonyak_2.jpg",
+        "67__Shonyak_3.jpg",
+        "67__Shonyak_4.jpg",
+        "67__Shonyak_5.jpg",
+        "67__Shonyak_6.jpg"
+      ]
+    },
+    {
+      "name": "SHLESHMANTAK",
+      "botanical_name": "Cordia dichotoma Forst.",
+      "family": "Boraginaceae",
+      "synonyms": [
+        "Lasoda",
+        "Dela",
+        "Tenti",
+        "Gunda"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves",
+        "flowers",
+        "fruits",
+        "bark",
+        "and roots"
+      ],
+      "indications": [
+        "Fever, Cough, Bronchitis, Asthma, Skin diseases, Wounds, Inflammation"
+      ],
+      "shloka": "श्योनाकः शोषणश्च स्यान्नटकट्वङ्गटुण्टुकाः ।\nमण्डूकपर्णपत्रोर्णशुकनासकुटन्नटाः ॥\nदीर्घवृन्तोऽरलुश्चापि पृथुशिम्बः कटम्भरः ।\nश्योनाको दीपनः पाके कटुकस्तुवरो हिमः ।\nग्राही तिक्तोऽनिलश्लेष्मपित्तकासप्रणाशनः ॥ ( भा. प्र​. )\nShleshmantak Tree\nShleshmantak Leaves\nShleshmantak Infloresence\nShleshmantak Flowers\nShleshmantak Fruits\nShleshmantak Seed",
+      "source_document": "66. Shleshmantaka.docx",
+      "images": [
+        "66__Shleshmantaka_1.jpg",
+        "66__Shleshmantaka_2.jpg",
+        "66__Shleshmantaka_3.jpg",
+        "66__Shleshmantaka_4.jpg",
+        "66__Shleshmantaka_5.jpg",
+        "66__Shleshmantaka_6.jpg"
+      ]
+    },
+    {
+      "name": "KAILASHPATI",
+      "botanical_name": "Couroupita guianensis Abul.",
+      "family": "Lecythideceae",
+      "synonyms": [
+        "Lingvruksham",
+        "Nagalingavruksh English – Cannon Ball Tree"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves",
+        "Flowers",
+        "Fruits",
+        "Bark"
+      ],
+      "indications": [
+        "Hypertension, Tumor, Pain, Inflammatory reactions, Skin diseases, Malerial Fever",
+        "Kailashpati Tree",
+        "Kailashpati Flower",
+        "Kailashpati Fruits",
+        "Kailashpati Fruit ( open)",
+        "Kailashpati Leaves",
+        "Kailashpati Bark"
+      ],
+      "shloka": null,
+      "source_document": "29. Kailashpati.docx",
+      "images": [
+        "29__Kailashpati_1.jpg",
+        "29__Kailashpati_2.jpg",
+        "29__Kailashpati_3.jpg",
+        "29__Kailashpati_4.jpg",
+        "29__Kailashpati_5.jpg",
+        "29__Kailashpati_6.jpg",
+        "29__Kailashpati_7.jpg"
+      ]
+    },
+    {
+      "name": "JYOTISHMATI",
+      "botanical_name": "Celastrus paniculatus Linn.",
+      "family": "Celastraceae",
+      "synonyms": [
+        "Jyotishmati",
+        "Katabhi",
+        "Jyotishka",
+        "Surasa",
+        "Somavallika",
+        "Paravatpadi",
+        "Malkangani English – Black Oil Plant",
+        "Intellect Tree",
+        "Climbing Staff Tree"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves",
+        "Root",
+        "Seeds"
+      ],
+      "indications": [
+        "Neurological disorder, Dementia, Loss of memory, Mental disorders, Rheumatism and Arthritis , Indigestion and Constipation, Skin diseases"
+      ],
+      "shloka": "ज्योतिष्मती कटुस्तिक्ता सरा कफसमीरजित् ।\nअत्युष्णा वामनी तीक्ष्णा वह्निबुद्धिमतिप्रदा ।।          (भा.प्र.)\nJyotishmati Leaves and Fruits\nJyotishmati Seeds\nJyotishmati Seeds ( Dried )",
+      "source_document": "27. Jyotishmati.docx",
+      "images": [
+        "27__Jyotishmati_1.jpg",
+        "27__Jyotishmati_2.jpg",
+        "27__Jyotishmati_3.jpg",
+        "27__Jyotishmati_4.jpg",
+        "27__Jyotishmati_5.jpg",
+        "27__Jyotishmati_6.jpg"
+      ]
+    },
+    {
+      "name": "VARUN",
+      "botanical_name": "Crataeva nurvala Buch.Ham",
+      "family": "Crappradaceae",
+      "synonyms": [
+        "Tiktashak",
+        "Padap",
+        "Bilvpatra",
+        "Bahupushpa",
+        "Kumarak",
+        "Setuvruksha"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Bark",
+        "Roots",
+        "Leaves"
+      ],
+      "indications": [
+        "Diuretic, Anti-lithiatic, Anti-inflammatory , Laxative"
+      ],
+      "shloka": "वरुणो वरणः सेतुस्तिक्तशाकः कुमारकः ।\nवरुणःपित्तलो भेदीश्लेष्मकृच्छ्राश्ममारुतान्॥\nनिहन्ति गुल्मवातास्त्रकृर्मीश्चोष्णोऽग्निदीपनः ।\nकषायो मधुरस्तिक्तः कटुकोरूक्षको लघुः ॥ ( भा. प्र​.)\nVarun Leaf\nVarun Bark",
+      "source_document": "74. Varun.docx",
+      "images": [
+        "74__Varun_1.jpg",
+        "74__Varun_2.jpg",
+        "74__Varun_3.jpg"
+      ]
+    },
+    {
+      "name": "Kupilu",
+      "botanical_name": "Strychnos nuxvomica Linn",
+      "family": "Loganiaceae",
+      "synonyms": [
+        "Vishatinduka",
+        "Kakatinduka",
+        "Kakapiluka",
+        "Garadruma",
+        "and Karaskara English – Nux-Vomica",
+        "poison Nut"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "seeds"
+      ],
+      "indications": [
+        "POISINOUS DRUG",
+        "It is used in loss of appetite, gastric inflammation, amadosha, colitis, piles and parasitic infection. It is the best medicine for gastric laxity and spasm"
+      ],
+      "shloka": "विषमुष्टिर्विषप्रायाः कटुका तिक्तका लघुः।\nउष्णा तीक्ष्णा च रोचिष्णु: कृमिघ्नी वातनाशिनी॥\nभा. प्र.\nKupilu Tree\nKupilu Leaves\nKupilu fruit",
+      "source_document": "38. Kupilu.docx",
+      "images": [
+        "38__Kupilu_1.jpg",
+        "38__Kupilu_2.png",
+        "38__Kupilu_3.jpg",
+        "38__Kupilu_4.jpg"
+      ]
+    },
+    {
+      "name": "JAMBU",
+      "botanical_name": "Syzygium Cumini Linn.",
+      "family": "Myrtaceae",
+      "synonyms": [
+        "Mahaphala",
+        "Phalendra",
+        "Surbhipatra",
+        "Mahaskandha English – Black Plum"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruit",
+        "Seed",
+        "Leaves",
+        "Stem bark."
+      ],
+      "indications": [
+        "Diabetes, Tooth and Gum diseases, Diarrhea"
+      ],
+      "shloka": "फलेन्द्रा कथिता नन्दी राजजम्बूर्महाफला ।\nतथा सुरभिपत्रा च महाजम्बूरपि स्मृता ।            राजजम्बूफलं स्वादु विष्टम्भि गुरु रोचनम् ॥ ( भा. प्र​.)",
+      "source_document": "25. Jambu.docx",
+      "images": [
+        "25__Jambu_1.jpg",
+        "25__Jambu_2.jpg",
+        "25__Jambu_3.jpg"
+      ]
+    },
+    {
+      "name": "Saptachakra",
+      "botanical_name": "Salacia reticulate",
+      "family": "Celastraceae",
+      "synonyms": [
+        "Swarnamula",
+        "Pitika",
+        "Saptasuta",
+        "Saptrangi"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Root and Root Bark"
+      ],
+      "indications": [
+        "Prameha (Diabetes mellitus)",
+        "Medoroga (Obesity)",
+        "Kushtha (Skin diseases)",
+        "Shotha (Inflammation)",
+        "Krimi (Helminthiasis/worm infestation)",
+        "Shloka",
+        "“सप्तचक्रं सरं तिक्तं कषायं दीपनं लघु |",
+        "कुष्ठमेहहरं रुच्यं श्लेष्मकृमिविनाशनम् ||” (BP)"
+      ],
+      "shloka": null,
+      "source_document": "63. Saptachakra.docx",
+      "images": [
+        "63__Saptachakra_1.jpg",
+        "63__Saptachakra_2.jpg"
+      ]
+    },
+    {
+      "name": "HARITAKI",
+      "botanical_name": "Terminalia chebula Ritz.",
+      "family": "Combratceae",
+      "synonyms": [
+        "Abhaya",
+        "Pathya",
+        "Harad English – Chebulic Myrobelan"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruit rind"
+      ],
+      "indications": [
+        "Constipation, Anorexia, Indigestion, Blood disorders, Skin disorders, Respiratory issues including bronchial asthma, Inflammatory conditions, Aging"
+      ],
+      "shloka": "हरीतकी पञ्चरसाऽलवणा तुवरा परम् ।\nरूक्षोष्णा दीपनी मेध्या स्वादुपाका रसायनी ॥\nचक्षुष्या लघुरायुष्या बृंहणी चानुलोमिनी ।\nश्वासकासप्रमेहार्शः कुष्ठशोथोदरक्रिमीन् ॥ वैस्वर्यग्रहणीरोगविबन्धविषमज्वरान् । गुल्माध्मानतृषाछर्दिहिक्काकण्डूहृदामयान् ॥\nकामलां शूलमानाहं प्लीहानञ्च यकृत्तथा । ( भा. प्र​.)\nHaritaki Tree\nHaritaki Flowers\nHaritaki Fruit ( Wet )\nHaritaki Fruits ( Dry)",
+      "source_document": "24. Haritaki (1).docx",
+      "images": [
+        "24__Haritaki__1__1.jpg",
+        "24__Haritaki__1__2.jpg",
+        "24__Haritaki__1__3.jpg",
+        "24__Haritaki__1__4.jpg"
+      ]
+    },
+    {
+      "name": "KUSHTHAKULINJAN",
+      "botanical_name": "Alpinia galangal Wild.",
+      "family": "Zingiberaceae",
+      "synonyms": [
+        "Kulinjan"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Rhizome"
+      ],
+      "indications": [
+        "Asthma, Chronic respiratory disorder, Cough, Common cold, Constipation, Bloating, Paralysis, Neuralgia"
+      ],
+      "shloka": "सुगन्धाऽप्युग्रगन्धाच विशेषात्कफकासनुत् ।\nसुस्वरत्वकरी रुच्या हृत्कण्ठमुखशोधिनी ॥ ( भा. प्र​. )\nKushthakulinjan Flower\nKushthakulinjan Rhizome",
+      "source_document": "39. Kusthakulinjan.docx",
+      "images": [
+        "39__Kusthakulinjan_1.jpg",
+        "39__Kusthakulinjan_2.jpg",
+        "39__Kusthakulinjan_3.jpg"
+      ]
+    },
+    {
+      "name": "VIDANGA",
+      "botanical_name": "- Embelia robusta A.DC",
+      "family": "- Primulaceae",
+      "synonyms": [
+        "Jantuhanana",
+        "Krimighna",
+        "Bhutagni",
+        "Tandula",
+        "Ghosa",
+        "Karala and Mrgagamini"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "1)Fruits/Berries: 2)Seeds: 3)Root and Bark:"
+      ],
+      "indications": [
+        "krimiroga, Aruchi, Agnimandya, Kustha , prameha, Ama janya vyadi , Udar roga , Jwara, kandu , Meda roga",
+        "Sholka:-",
+        "विडङ्गः कृमिनाशश्च दीपनो ग्राही कषायवा   कृमिकार्मुकमत्यर्थं लघु तीक्ष्णं कषायकम   कटु तिक्तोष्णवीर्यश्च पाचनो मेदनाश न वम्यतीसारकासांश्च कृमीन् हन्ति विशेषतः॥"
+      ],
+      "shloka": null,
+      "source_document": "78. Vidanga.docx",
+      "images": [
+        "78__Vidanga_1.jpg",
+        "78__Vidanga_2.jpg",
+        "78__Vidanga_3.jpg"
+      ]
+    },
+    {
+      "name": "HARITAKI",
+      "botanical_name": "Terminalia chebula Ritz.",
+      "family": "Combratceae",
+      "synonyms": [
+        "Abhaya",
+        "Pathya",
+        "Harad English – Chebulic Myrobelan"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruit rind"
+      ],
+      "indications": [
+        "Constipation, Anorexia, Indigestion, Blood disorders, Skin disorders, Respiratory issues including bronchial asthma, Inflammatory conditions, Aging"
+      ],
+      "shloka": "हरीतकी पञ्चरसाऽलवणा तुवरा परम् ।\nरूक्षोष्णा दीपनी मेध्या स्वादुपाका रसायनी ॥\nचक्षुष्या लघुरायुष्या बृंहणी चानुलोमिनी ।\nश्वासकासप्रमेहार्शः कुष्ठशोथोदरक्रिमीन् ॥ वैस्वर्यग्रहणीरोगविबन्धविषमज्वरान् । गुल्माध्मानतृषाछर्दिहिक्काकण्डूहृदामयान् ॥\nकामलां शूलमानाहं प्लीहानञ्च यकृत्तथा । ( भा. प्र​.)\nHaritaki Tree\nHaritaki Flowers\nHaritaki Fruit ( Wet )\nHaritaki Fruits ( Dry)",
+      "source_document": "24. Haritaki.docx",
+      "images": [
+        "24__Haritaki_1.jpg",
+        "24__Haritaki_2.jpg",
+        "24__Haritaki_3.jpg",
+        "24__Haritaki_4.jpg"
+      ]
+    },
+    {
+      "name": "SINDURI",
+      "botanical_name": "Bixa orellana Linn.",
+      "family": "Bixaceae",
+      "synonyms": [
+        "Raktabija",
+        "Raktapushpa",
+        "Sukomal",
+        "Virpushpa"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Whole Plant"
+      ],
+      "indications": [
+        "Vomiting, polydipsia, Fever, Jaundice, Headaches"
+      ],
+      "shloka": "सिन्दूरी रक्तबीजा च रक्तपुष्पा सुकोमला ।\nसिन्दूरी विषषित्तास्त्रतृष्णावान्तिहरी हिमा ॥\n( भा. प्र​.)\nSinduri Tree\nSinduri Tree\nSinduri Leaves\nSinduri Flowers\nSinduri Fruits\nSinduri Fruits with Seeds",
+      "source_document": "68. Sinduri.docx",
+      "images": [
+        "68__Sinduri_1.jpg",
+        "68__Sinduri_2.jpg",
+        "68__Sinduri_3.jpg",
+        "68__Sinduri_4.jpg",
+        "68__Sinduri_5.jpg",
+        "68__Sinduri_6.jpg"
+      ]
+    },
+    {
+      "name": "KARVEER",
+      "botanical_name": "Nerium indicum",
+      "family": "Apocynaceae.",
+      "synonyms": [
+        "Kaner",
+        "karber",
+        "karu vira",
+        "Asvamaraka",
+        "Hayamara",
+        "Hayamaraka Chandataka",
+        "Pratihara"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Mula and patra करवीरः श्वेतपुष्पः शतकुम्भोऽश्वमारकः । द्वितीयो रक्तपुष्पश्च चण्डातो लगुडस्तथा॥ ८२॥ करवीरद्वयं तिक्तं कषायं कटुकञ्च तत् । ज्ञणलाघवकृन्नेत्र कोपकुष्ठवगापहम् ॥ ८३ ॥ वीर्योष्णं कृमिकण्डानं अचितं विषवत्सतम् ॥ ८४ ॥"
+      ],
+      "indications": [
+        "1.Acharya Charak= has mentioned in kushtha roga(skin disease).It is one of the kushthaghna dravya i.e allievates various skin disorders.",
+        "2.Acharya Sushruta =ashmari,Updansh (gonorrohea), Bhagandara (fistula) and different types of skin disorders.",
+        "3. Aacharya Vagbhata= also indicated it in the treatment of skin diseases as Kikkis (Striae gravidarum) and Indralupta (hair loss). Fine paste of Dugdhika (Euphorbia thymifolia) and Karveera made with milk is Applied to scalp to cure Palitya (whitening of hair)."
+      ],
+      "shloka": null,
+      "source_document": "32. karveer.docx",
+      "images": [
+        "32__karveer_1.jpg",
+        "32__karveer_2.jpg",
+        "32__karveer_3.jpg",
+        "32__karveer_4.jpg"
+      ]
+    },
+    {
+      "name": "KADAMB",
+      "botanical_name": "- Neolamarckia cadamba (Roxb).",
+      "family": "- Rubiaceae",
+      "synonyms": [
+        "kadam",
+        "cadamba",
+        "nipa",
+        "priyak",
+        "vrtta-pushpa",
+        "and halipriya. burflower tree",
+        "laran",
+        "Leichhardt pine."
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Bark",
+        "leaves",
+        "Flowers",
+        "Fruit",
+        "Wood."
+      ],
+      "indications": [
+        "fever, Diarrhea and Dysentery, Wound  Healing, Headache, Skin Diseases, Liver Disorders, Toothache, Anti-inflammatory and Pain Relief ."
+      ],
+      "shloka": "-\nकदम्बस्तुवरस्तिक्तः कटुको ग्राहि शीतलः।\nगुरुः पित्तास्रकृच्छ्रघ्नः प्रमेहकफनाशनः॥    (भा.प्र.)\nKadamb Seeds :-\nKadamb Leaves :-\nKadamb Tree :-\nKadamb Flower :-",
+      "source_document": "28. kadamb.docx",
+      "images": [
+        "28__kadamb_1.jpg",
+        "28__kadamb_2.jpg",
+        "28__kadamb_3.jpg",
+        "28__kadamb_4.jpg"
+      ]
+    },
+    {
+      "name": "कंपिल्लक (कम्पिल्लक)",
+      "botanical_name": "Mallotus philipinensis Muell.",
+      "family": "एरण्डकुल. (Euphorbiaceae)",
+      "synonyms": [
+        "कंपिल्लका",
+        "रक्तांग",
+        "रेचन"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "फलरज"
+      ],
+      "indications": [
+        "पाया,कंडू, कुष्ठ, कृमी यांमध्ये बाह्य व आभ्यंतर उपयोगासाठी.",
+        "गर्भनिरोधक म्हणूनही उपयोग.",
+        "Indications (Research updates)-anti-bacterial, anti-fungal, anti-filarial, antimicrobial,Anti-inflammatory activity, antioxidant, antiradical, anti-fertility, protein inhibition, hepatoprotective, antiallergic, anti-HIV activity, anti-cancer, chemoprotective, anti-tuberculosis, anti-leukaemia, anti-allergic, anti-tumour and wound healing activities."
+      ],
+      "shloka": "कम्पिलः कफपित्तास्रकृमिगुल्मोदरव्रणान् |\nहन्ति रेची कटूष्णाश्च मेहानाहविषाश्मनुत् ।। भा. प्र.",
+      "source_document": "30. kappillak.docx",
+      "images": [
+        "30__kappillak_1.jpg",
+        "30__kappillak_2.jpg",
+        "30__kappillak_3.jpg",
+        "30__kappillak_4.jpg",
+        "30__kappillak_5.png"
+      ]
+    },
+    {
+      "name": "Falgu",
+      "botanical_name": "Ficus carica L.",
+      "family": "Moraceae",
+      "synonyms": [
+        "Kakodumbari",
+        "Kashtodumbara",
+        "Malyu",
+        "Malapu",
+        "Udumbari"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruit"
+      ],
+      "indications": [
+        "Anemia , Cancer , Diabetes , Leprosy , Liver diseases."
+      ],
+      "shloka": "मलपूः स्तम्भकृत्तिक्ता शीतला तुवरा जयेत् । कफपित्तव्रणश्चित्रकुष्ठपाण्ड्वर्शकामलाः || भा.प्र",
+      "source_document": "21. Falgu.docx",
+      "images": [
+        "21__Falgu_1.png"
+      ]
+    },
+    {
+      "name": "Gandha Prasarini",
+      "botanical_name": "Paederia foetida",
+      "family": "- Rubiaceae",
+      "synonyms": [
+        "Sarani",
+        "Prasarini",
+        "Gandha Mula",
+        "Sugandha Prasarini",
+        "Rajabala",
+        "Bhadraparni"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves (patra) Roots (mula) Whole plant (sarvanga )"
+      ],
+      "indications": [
+        "Vata Vyadhi (neuromuscular  disorders)",
+        "Rheumatoid arthritis",
+        "Sciatica",
+        "Joint pain",
+        "Paralysis",
+        "Spondylitis"
+      ],
+      "shloka": "-\nप्रसारणी राजबला भद्रपर्णी प्रतापनी | सरणी सारणी भद्रा बला चापि कटम्भरा ||२०१||\nप्रसारिणी गुरुर्वृष्या बलसन्धानकृत्सरा | वीर्योष्णा वातहृत्तिक्ता वातरक्तकफापहा ||२०२||\n( भावप्रकाश-पूर्वखण्ड-मिश्रप्रकरण – ४. गुडूच्यादिवर्ग)",
+      "source_document": "22. Gandha Prasarini.docx",
+      "images": [
+        "22__Gandha_Prasarini_1.jpg",
+        "22__Gandha_Prasarini_2.jpg",
+        "22__Gandha_Prasarini_3.jpg"
+      ]
+    },
+    {
+      "name": null,
+      "botanical_name": null,
+      "family": null,
+      "synonyms": [],
+      "english_name": null,
+      "useful_parts": [],
+      "indications": [],
+      "shloka": null,
+      "source_document": "36. khirini.docx",
+      "images": []
+    },
+    {
+      "name": "KOSHAMRA",
+      "botanical_name": "Schleichera oleosa (Lour.) Oken",
+      "family": "Sapindaceae",
+      "synonyms": [
+        "Koshaamra",
+        "Kshudraamra",
+        "Lakshaa vrksha",
+        "Ghanaskandha English – Ceylon Tree"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Leaves",
+        "Seed",
+        "Oil",
+        "Bark"
+      ],
+      "indications": [
+        "Blood impurities, Blood disorders, Headache, Skin disorders, Worms, Hair fall, Alopecia, Boils, Itch and acne, Ulcers, Abscess, Rheumatism, Malaria, Ear disorders, Loss of appetite."
+      ],
+      "shloka": "कोशाम्र उक्तः क्षुद्राम्रः कृमिवृक्षः सुकोशकः ।\nकोशाम्रः कुष्ठशोथास्त्रपित्तत्रव्रणकफापहः ॥\nतत्फलं ग्राहि वातघ्नमम्लोष्णं गुरु पित्तलम् ।\nपक्वन्तु दीपनं रुच्यं लघूष्णं कफवातनुत् ॥ (भा.प्र.)\nKoshamra Tender Leaves with Flowers\nKoshamra Leaves with Flowers\nKoshamra Leaves with Fruits\nKoshamra Fruits\nKoshamra Seeds\nKoshamra Seed Oil",
+      "source_document": "37. Koshamra.docx",
+      "images": [
+        "37__Koshamra_1.jpg",
+        "37__Koshamra_2.jpg",
+        "37__Koshamra_3.jpg",
+        "37__Koshamra_4.jpg",
+        "37__Koshamra_5.jpg",
+        "37__Koshamra_6.png"
+      ]
+    },
+    {
+      "name": "KATAK",
+      "botanical_name": "Strychnos potatorum",
+      "family": "Loganiaceae",
+      "synonyms": [
+        "Nirmali",
+        "kataka",
+        "Ambuprasadan",
+        "Tiktaphala",
+        "Chakshushya"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Seed",
+        "Root",
+        "Unriped fruits"
+      ],
+      "indications": [
+        "Eye disorders, Digestive problem, Heal abscesses,",
+        "Skin disorder, Acidity, Gastritis, Gulma, Eczema, Diabetes mellitus,",
+        "Jaundice, Anaemia, Poisoning cases"
+      ],
+      "shloka": null,
+      "source_document": "33. KATAK.docx",
+      "images": [
+        "33__KATAK_1.jpg",
+        "33__KATAK_2.jpg",
+        "33__KATAK_3.jpg",
+        "33__KATAK_4.jpg",
+        "33__KATAK_5.jpg"
+      ]
+    },
+    {
+      "name": "USHIR",
+      "botanical_name": "Vetiveria zizaniodis Linn.",
+      "family": "Gramineae",
+      "synonyms": [
+        "Bahumulak",
+        "Gandhaadhya",
+        "Nalad",
+        "Sevya",
+        "Amrunaal",
+        "Samgandhak",
+        "Virtar"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Roots"
+      ],
+      "indications": [
+        "Fever, Burning sensation in body, Burning micturition, Epistaxis, Headaches"
+      ],
+      "shloka": "वीरणस्य तु मूलं स्यादुशीरं नलदञ्च तत् ।\nअमृणालञ्च सेव्यञ्च   समगन्धिकमित्यपि ॥\nउशीरं पाचनं शीतं स्तम्भनं लघु तिक्तकम् ॥\nमधुरंज्वरहृद्वान्तिमदनुत्कफपित्तहृत्। तृष्णाऽस्त्रविषवीसर्पदाहकृच्छ्रव्रणापहम् ॥ ( भा. प्र​.)\nUshir\nUshir Roots",
+      "source_document": "72. Ushir.docx",
+      "images": [
+        "72__Ushir_1.jpg",
+        "72__Ushir_2.jpg"
+      ]
+    },
+    {
+      "name": "SITAPHALA",
+      "botanical_name": "Annona squamosa Linn.",
+      "family": "Annonaceae",
+      "synonyms": [
+        "Gandagaatra",
+        "Sitaa phala English – Custard Apple",
+        "Sugar Apple",
+        "Sweet-sop."
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Bark",
+        "leaf",
+        "fruit"
+      ],
+      "indications": [
+        "Daha",
+        "Fever, skin disease, cough, piles, leucorrhoea, vomiting, dysentery, gout, burning sensation, dyspepsia, cephalgia, worm infection"
+      ],
+      "shloka": "“सीताफलम् मधुरं स्निग्धं गुरु वातकफापहम्।\nबल्यं वृष्यं रसायनं हृद्यं तृप्तिकरं स्मृतम् ॥”\nSitaphala Tree\nSitaphala Leaves\nSitaphala Fruit\nSitaphala Seeds",
+      "source_document": "69. Sitaphal.docx",
+      "images": [
+        "69__Sitaphal_1.jpg",
+        "69__Sitaphal_2.jpg",
+        "69__Sitaphal_3.jpg",
+        "69__Sitaphal_4.jpg"
+      ]
+    },
+    {
+      "name": "Ketaki",
+      "botanical_name": "Pandanus odorotissimus Linn.",
+      "family": "Pandanaceae",
+      "synonyms": [
+        "Soochi pushpa",
+        "Trakachada",
+        "Sugandha",
+        "Karatruna",
+        "English – Screw pine"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Root",
+        "Flower"
+      ],
+      "indications": [
+        "External application to treat joint pain and headache, general debility, blood borne disorders, Aphrodisiac, loss of appetite, indigestion and constipation, palpitation. female infertility."
+      ],
+      "shloka": "केतक: सूचिका पुष्प जम्बुक क्रकच्छद:\nसुवर्णकेतकी त्वन्या लघुपुष्पा सुगन्धिनी\nकेतक: कटुक: स्वादु: लघु: तिक्त कफापह:\nउष्णा तिक्तरसा ज्ञेया चक्षुष्या हेमकेतकी ||   (भा. प्र.)\nKetaki Tree\nKetaki fruit\nRiped fruit",
+      "source_document": "34. ketaki.docx",
+      "images": [
+        "34__ketaki_1.jpg",
+        "34__ketaki_2.jpg",
+        "34__ketaki_3.jpg"
+      ]
+    },
+    {
+      "name": "TUTI",
+      "botanical_name": "Morus indica Linn.",
+      "family": "Moraecae",
+      "synonyms": [
+        "Tuti",
+        "Tutari",
+        "Shahtoat",
+        "Tula",
+        "Kramuk",
+        "Bramhadaru"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruits",
+        "Leaves"
+      ],
+      "indications": [
+        "Diabetes, Hyper lipidemia, Arthritis, Inflammatory conditions, Anaemia, Skin disorders, Neurological disorders, Alzheimer’s disease, Dizziness and Insomnia"
+      ],
+      "shloka": "तूतस्तूलश्च पूगश्च क्रमुको ब्रह्मदारु च ।\nतूतं पक्वं गुरु स्वादु हिमं पित्तानिलापहम् ॥\nतदेवामं गुरु सरमम्लोष्णं रक्तपित्तकृत् ॥ ( भा. प्र​.)",
+      "source_document": "70. Tuti.docx",
+      "images": []
+    },
+    {
+      "name": "Vasa",
+      "botanical_name": "Adhatoda vasica Nees, Justicia adhatoda",
+      "family": "Acanthaceae",
+      "synonyms": [
+        "Vasika",
+        "vaajidanta",
+        "sinha",
+        "aatrushak",
+        "panchmukhi",
+        "sinhaparna",
+        "adulsa."
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Mula",
+        "Patra",
+        "Pushpa"
+      ],
+      "indications": [
+        "Urdhwa raktapitta, kshay, kasa, shwasa."
+      ],
+      "shloka": "वासको वातकृत्स्वर्यः कफपित्तास्रनाशनः ।\nतिक्तस्तुवरको हृद्यो लघु शीतस्तृडर्तिकृत् ।\nश्वासकासज्वरच्छर्दि मेहकुष्ठक्षयापहः ।। भा. प्र.",
+      "source_document": "76. Vasa.docx",
+      "images": [
+        "76__Vasa_1.jpg",
+        "76__Vasa_2.jpg"
+      ]
+    },
+    {
+      "name": "RUDRAKSH",
+      "botanical_name": "Elaeocarpus ganitrus roxb.",
+      "family": "Elaeocarpaceae Synonyms (Sanskrit): Rudraksha Haraksha Bhutnashana Shivabhooshana Rudra-priya Aksha Trailokya-vijaya",
+      "synonyms": [],
+      "english_name": null,
+      "useful_parts": [
+        "Beej (Seed)- most commonly used Leaves and bark (less commonly used in some formulations) Indications Manoroga (mental disorders)- calms mind Hridaya vikara – strengths heart Daivyapashraya chikitsa – used as spritiual and protective remedy Hypertension-balances stress and lowers BP Anidra( Insomnia) – promote good sleep Tridosha hara balances vata",
+        "pitta",
+        "kapha श्लोकः “रुद्राक्षं तीक्ष्णोष्णं कफवातहरं परम्। शिरोरोगमनोदोष नाशयेदतिदारुणम् ॥“ Rudraksh bark Rudraksh leaves Rudraksh seeds"
+      ],
+      "indications": [],
+      "shloka": null,
+      "source_document": "61. rudraksh.docx",
+      "images": [
+        "61__rudraksh_1.jpg",
+        "61__rudraksh_2.jpg",
+        "61__rudraksh_3.jpg"
+      ]
+    },
+    {
+      "name": "JAPA",
+      "botanical_name": "Hibiscus rosa-sinensis",
+      "family": "Malvaceae",
+      "synonyms": [
+        "Sanskrit: Japa",
+        "Aruna",
+        "Japakusuma",
+        "Rudhira",
+        "Yashasvini Hindi: Gudhal Marathi: Jaswand."
+      ],
+      "english_name": "China Rose / Shoe Flower",
+      "useful_parts": [
+        "Flowers Leaves Root Bark Indications of Japa: Keshya (Promotes hair growth) Used in hair oils to prevent hair fall",
+        "promote hair growth",
+        "and prevent premature greying. Shotha (Inflammation) Leaves are used as a poultice in local swelling and inflammation. Tvagvikara (Skin disorders) Used in various skin conditions like acne",
+        "boils",
+        "eczema due to its anti-inflammatory and cooling nature. जपा यशस्विनी रक्त पुष्पा गुडतुल्यरसा। वातपित्तहरा श्लेष्मा शोथकुष्ठास्रनाशिनी॥"
+      ],
+      "indications": [],
+      "shloka": null,
+      "source_document": "26. Japa.docx",
+      "images": [
+        "26__Japa_1.jpg",
+        "26__Japa_2.jpg",
+        "26__Japa_3.jpg"
+      ]
+    },
+    {
+      "name": "VRUDDHADARUK",
+      "botanical_name": "Argyreia speciosa  ( Linn. f. ) Sweet",
+      "family": "Convolvulaceae",
+      "synonyms": [
+        "Trikonakanda",
+        "Hasthi valli",
+        "Samudra patra",
+        "Ajaantri",
+        "Mahashyma",
+        "Vallari",
+        "Samudrashosh",
+        "Elephant Creeper"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Roots",
+        "Seeds",
+        "Leaves"
+      ],
+      "indications": [
+        "Rheumatoid arthritis, General debility, Leucorrhea, Oligospermia, Diabetes, Wounds, Cuts, Swelling, Gangrene"
+      ],
+      "shloka": "वृद्धदारुक आवेगी छागान्त्री वृष्यगन्धिका ।\nवृद्धद्वारुः कषायोष्णः कटुस्तिक्तो रसायनः ॥\nवृष्यो वातामवातार्शः शोथमेहकफप्रणुत् । शुक्रायुर्बलमेधाऽग्निस्वरकान्तिकरः सरः ॥ ( भा. प्र​.)\nVruddhadaru Creeper\nVruddhadaruk Leaves, Flowers and Fruits\nVruddhadaruk Seeds",
+      "source_document": "79. Vrudhadaru.docx",
+      "images": [
+        "79__Vrudhadaru_1.jpg",
+        "79__Vrudhadaru_2.jpg",
+        "79__Vrudhadaru_3.jpg",
+        "79__Vrudhadaru_4.jpg",
+        "79__Vrudhadaru_5.jpg"
+      ]
+    },
+    {
+      "name": "VATA",
+      "botanical_name": "Ficus bengalensis Linn.",
+      "family": "Moraceae",
+      "synonyms": [
+        "Raktaphala",
+        "Shrungi",
+        "Naghrodh",
+        "Bahupaad",
+        "Kshri",
+        "Vaishravan"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Bark",
+        "Leaf",
+        "Axillary roots",
+        "Ksheera",
+        "Fruits"
+      ],
+      "indications": [
+        "Dirrhoea, Dysentry, Wounds, Bleeding disorders,     Rheumatic arthritis, Conjunctivitis, Dental issues, Mouth   ulcers, Leucorrhoea, Infertility"
+      ],
+      "shloka": "वटो रक्तफलः शृङ्गी न्यग्रोधः स्कन्धजो ध्रुवः ।\nक्षीरी वैश्रवणो वासो बहुपादो वनस्पतिः ॥\nवटः शीतो गुरुर्ग्रही कफपित्तव्रणापहः ।\nवर्यो विसर्पदाहघ्नः कषायो योनिदोषहृत् ॥(भा. प्र​.)\nVata Tree\nVata Tree\nVata Leaves\nVata Fruits\nVata Axillary Roots",
+      "source_document": "77. Vata.docx",
+      "images": [
+        "77__Vata_1.jpg",
+        "77__Vata_2.jpg",
+        "77__Vata_3.jpg",
+        "77__Vata_4.jpg",
+        "77__Vata_5.jpg"
+      ]
+    },
+    {
+      "name": "MADANPHAL",
+      "botanical_name": "Randia dumetorum.",
+      "family": "Rubiaceae",
+      "synonyms": [
+        "madan",
+        "chardan",
+        "pindi",
+        "shalyak",
+        "nat",
+        "dharafal. English – Emetic nut"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Fruit",
+        "Seed"
+      ],
+      "indications": [
+        "Used as Vamana Dravya, Skin Disease, poisoning,And also used in indigestion and Edema"
+      ],
+      "shloka": "मदनो मधुरस्तिक्तो वीर्येष्णो लेखनो लघुः ।\nवान्तिकृद्विद्रधिहरः प्रतिश्यायव्रणान्तकः ।\nरूक्षः कुष्ठकफानाहशोथगुल्मव्रणापहः ।। भा. प्र.\nMADANPHALTree\nMADANPHAL Leaves\nMADANPHAL Fruit\nMADANPHAL Seeds",
+      "source_document": "40. MADANFAL.docx",
+      "images": [
+        "40__MADANFAL_1.png",
+        "40__MADANFAL_2.png",
+        "40__MADANFAL_3.png",
+        "40__MADANFAL_4.png",
+        "40__MADANFAL_5.png"
+      ]
+    },
+    {
+      "name": "VACHA",
+      "botanical_name": "Acorus calamus Linn.",
+      "family": "Araceae",
+      "synonyms": [
+        "Ugragandha",
+        "Shadagrantha",
+        "Golomi",
+        "Shatparvika",
+        "Kshudrapatra",
+        "Ugravami"
+      ],
+      "english_name": null,
+      "useful_parts": [
+        "Bhaumik- kand ( Rhizome )"
+      ],
+      "indications": [
+        "Cough, Cold, Bronchitis, Constipation, Fever, Eplipsy, Swelling"
+      ],
+      "shloka": "वचोग्रगन्धा षडग्रन्था गोलोमी शतपर्विका ।\nक्षुद्रपत्रीच मङ्गल्याजटिलोग्राच लोमशा ॥\nवचोग्रगन्धाकटुकातिक्तोष्णावान्तिवह्निकृत्। विबन्धाघ्मानशूलघ्नीशकृन्मूत्रविशोधिनी॥ अपस्मारकफोन्मादभूतजन्त्वनिलान्हरेत् ॥ ( भा. प्र​.)\nVacha with Fruits\nVacha Rhizome\nVacha ( Dried )",
+      "source_document": "73. Vacha.docx",
+      "images": [
+        "73__Vacha_1.jpg",
+        "73__Vacha_2.jpg",
+        "73__Vacha_3.jpg",
+        "73__Vacha_4.jpg",
+        "73__Vacha_5.jpg"
+      ]
+    }
+  ]
+}
