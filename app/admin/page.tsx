@@ -176,7 +176,6 @@ export default function AyurvedaAdmin() {
       setSelectedPlant({ ...newPlant, images: imageUrls });
       setShowQRModal(true);
 
-      // Reset form
       setFormData({
         name: "",
         botanical_name: "",

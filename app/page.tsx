@@ -47,7 +47,7 @@ export default function Home() {
         style={{
           backgroundImage: "url('/src/bg.jpg')",
           backgroundRepeat: 'no-repeat',
-          backgroundSize: 'cover',
+          backgroundSize: '100% 100%',
           backgroundPosition: 'center',
           backgroundAttachment: 'fixed', // Parallax effect
           opacity: 0.80,
@@ -122,7 +122,7 @@ export default function Home() {
           <div className={`mb-8 ${isVisible ? 'animate-fade-in-up' : 'opacity-0'}`}>
             <h1 className="text-5xl sm:text-6xl lg:text-8xl font-bold mb-6 leading-tight">
               <span className="block text-gray-900">Know Your Roots -</span>
-              <span className="block gradient-text mt-2">preserve Ayurveda</span>
+              <span className="block gradient-text mt-2">Preserve Ayurveda</span>
             </h1>
           </div>
 

@@ -21,29 +21,28 @@ export default function Header() {
     <motion.nav
       initial={{ y: -100 }}
       animate={{ y: 0 }}
-      className="sticky top-0 z-50 backdrop-blur-lg bg-white/80 shadow-md border-b border-green-200"
+      className="sticky top-0 z-50 w-full"
     >
-      <div className="container mx-auto px-4 py-4 flex justify-between items-center">
+      <div className="absolute inset-0 backdrop-blur-lg bg-green-800 shadow-md border-b border-green-200 opacity-40" />
+      <div className="w-full px-4 pr-8 py-10 flex justify-between items-center relative">
         <Link href="/" className="flex items-center gap-2">
-          <div className="w-10 h-10 bg-transparent rounded-full flex items-center justify-center">
-            <Leaf className="w-6 h-6 text-green-600" />
+          <div className="w-22 h-16 bg-transparent rounded-full flex items-center justify-end">
+            <Leaf className="w-8 h-8 text-green-200" />
           </div>
-          <span className="text-2xl font-bold bg-gradient-to-r from-green-700 to-teal-700 bg-clip-text text-transparent">
+          <span className="text-3xl font-bold bg-linear-to-r bg-white bg-clip-text text-white pl-10">
             VrukshaVeda
           </span>
         </Link>
-        <div className="flex gap-4">
+        <div className="flex gap-4 items-center">
+          <Link href="/" className="text-green-700 font-medium hover:text-teal-600">Home</Link>
           {session ? (
             <>
-              <Link href="/admin" className="text-green-700 font-medium hover:text-teal-600">Dashboard</Link>
+              <Link href="/admin" className="text-green-700 font-medium hover:text-teal-600">Admin</Link>
               <button onClick={logout} className="text-red-600 font-medium hover:text-red-700">Logout</button>
             </>
-          ) : (
-            <Link href="/login" className="text-green-700 font-medium hover:text-teal-600">Admin Login</Link>
-          )}
+          ) : null}
         </div>
       </div>
     </motion.nav>
   );
 }
-
